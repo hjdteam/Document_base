@@ -11,6 +11,7 @@
 |项目展示| 杨磊、黄俊达|
 
 ## 三、项目整体架构
+![image loading failed](https://github.com/hjdteam/Document_base/blob/master/picture/java.jpg)
 
 ## 四、项目软件
 |类型|编译软件|
@@ -24,4 +25,6 @@
 |npm|6.4.1|
 |maven|3.6.0|
 |mysql|8.0.15|
+
 ## 五、项目成果
+![image loading failed](https://github.com/hjdteam/Document_base/blob/master/picture/java.jpg)
