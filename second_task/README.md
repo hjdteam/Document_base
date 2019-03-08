@@ -12,6 +12,7 @@
 
 ## 三、项目整体架构
 ![image loading failed](https://github.com/hjdteam/Document_base/blob/master/image_result/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.png)
+小组成员按照项目整体架构设计，目前完成界面简单开发，数据结构设计、account、wallpaper、admin的接口编写及相关简单测试。由于时间关系，项目其他部分完成不够精细，但整体运行效果已见成效。本小组将于后期继续开发改进。详情可关注后续GitHub账号更新。
 
 ## 四、项目详细设计
 ### 1、利用Spring Boot快速搭建web项目框架；
