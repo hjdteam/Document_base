@@ -11,7 +11,7 @@
 |项目展示| 杨磊、黄俊达|
 
 ## 三、项目整体架构
-![image loading failed](https://github.com/hjdteam/Document_base/blob/master/picture/java.jpg)
+![image loading failed](https://github.com/hjdteam/Document_base/blob/master/image_result/page.jpg)
 
 ## 四、项目软件
 |类型|编译软件|
@@ -27,4 +27,4 @@
 |mysql|8.0.15|
 
 ## 五、项目成果
-![image loading failed](https://github.com/hjdteam/Document_base/blob/master/picture/java.jpg)
+![image loading failed](https://github.com/hjdteam/Document_base/blob/master/image_result/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.png)
