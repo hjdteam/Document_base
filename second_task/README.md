@@ -13,7 +13,15 @@
 ## 三、项目整体架构
 ![image loading failed](https://github.com/hjdteam/Document_base/blob/master/image_result/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.png)
 
-## 四、项目软件
+## 四、项目详细设计
+### 1、利用Spring Boot快速搭建web项目框架；
+### 2、在wallpapers_h5_basic文件中实现前端界面设计；
+### 3、配置nodejs、setting.xml、maven等库和插件；
+### 4、搭建数据库，构建新表wallpaper；
+### 5、将本机下载的bing图片导入数据库wallpaper.sql中;
+### 6、连接数据库，分别编译运行Spring Boot文件和wallpaper文件终端下的npm run dev，访问页面，在页面中显示数据库图片信息。
+
+## 五、项目软件
 |类型|编译软件|
 |:---|:---|
 |开发工具|Vscode|
@@ -26,5 +34,5 @@
 |maven|3.6.0|
 |mysql|8.0.15|
 
-## 五、项目成果
+## 六、项目成果
 ![image loading failed](https://github.com/hjdteam/Document_base/blob/master/image_result/page.jpg)
