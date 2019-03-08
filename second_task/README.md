@@ -16,11 +16,11 @@
     小组成员按照项目整体架构设计，目前完成界面简单开发，数据结构设计、account、wallpaper、admin的接口编写及相关简单测试。由于时间关系，项目其他部分完成不够精细，但整体运行效果已见成效。本小组将于后期继续开发改进。详情可关注后续GitHub账号更新。
 
 ## 四、项目详细设计
-1、利用Spring Boot快速搭建web项目框架；
-2、在wallpapers_h5_basic文件中实现前端界面设计；
-3、配置nodejs、setting.xml、maven等库和插件；
-4、搭建数据库，构建新表wallpaper；
-5、将本机下载的bing图片导入数据库wallpaper.sql中;
+1、利用Spring Boot快速搭建web项目框架；  
+2、在wallpapers_h5_basic文件中实现前端界面设计；  
+3、配置nodejs、setting.xml、maven等库和插件；  
+4、搭建数据库，构建新表wallpaper；  
+5、将本机下载的bing图片导入数据库wallpaper.sql中;  
 6、连接数据库，分别编译运行Spring Boot文件和wallpaper文件终端下的npm run dev，访问页面，在页面中显示数据库图片信息。
 
 ## 五、项目软件
